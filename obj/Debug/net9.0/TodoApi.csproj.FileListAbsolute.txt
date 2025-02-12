@@ -180,3 +180,4 @@ d:\Vscode-dot-net\to-do\TodoApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Works
 d:\Vscode-dot-net\to-do\TodoApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 d:\Vscode-dot-net\to-do\TodoApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 d:\Vscode-dot-net\to-do\TodoApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Vscode-dot-net\to-do\TodoApi\obj\Debug\net9.0\TodoApi.sourcelink.json

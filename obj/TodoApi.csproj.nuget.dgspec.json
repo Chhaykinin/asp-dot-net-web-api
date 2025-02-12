@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Vscode-dot-net\\to-do\\TodoApi\\TodoApi.csproj": {}
+    "D:\\Vscode-dot-net\\to-do\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "d:\\Vscode-dot-net\\to-do\\TodoApi\\TodoApi.csproj": {
+    "D:\\Vscode-dot-net\\to-do\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Vscode-dot-net\\to-do\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "D:\\Vscode-dot-net\\to-do\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "d:\\Vscode-dot-net\\to-do\\TodoApi\\TodoApi.csproj",
+        "projectPath": "D:\\Vscode-dot-net\\to-do\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "d:\\Vscode-dot-net\\to-do\\TodoApi\\obj\\",
+        "outputPath": "D:\\Vscode-dot-net\\to-do\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
